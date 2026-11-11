@@ -1,0 +1,21 @@
+{
+ "updated_at": "2026-11-12T01:08+09:00",
+ "weather": {
+  "label": "曇り時々晴れ",
+  "emoji": "⛅",
+  "high": 19,
+  "low": 11,
+  "precip": 0,
+  "current": 11
+ },
+ "muse": {
+  "used_percent": 4.0,
+  "reset": "11/17 6:58",
+  "plan": "無料枠"
+ },
+ "gpt": {
+  "used_percent": 0.0,
+  "reset": "12/6",
+  "as_of": "11/06"
+ }
+}
