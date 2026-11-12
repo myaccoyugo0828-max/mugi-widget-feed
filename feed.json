@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T09:18+09:00",
+ "updated_at": "2026-11-12T09:23+09:00",
  "weather": {
   "label": "曇り時々晴れ",
   "emoji": "⛅",
@@ -17,5 +17,17 @@
   "used_percent": 0.0,
   "reset": "12/6",
   "as_of": "11/06"
+ },
+ "deadline": {
+  "next": {
+   "label": "NISA積立スタート（月7万円）",
+   "date": "11/28",
+   "days_left": 16
+  },
+  "following": {
+   "label": "LINE証券 情報更新",
+   "date": "11/30",
+   "days_left": 18
+  }
  }
 }
