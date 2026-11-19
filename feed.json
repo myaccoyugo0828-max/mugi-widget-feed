@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-11-19T07:44+09:00",
+ "updated_at": "2026-11-20T07:44+09:00",
  "weather": {
-  "label": "曇り時々晴れ",
-  "emoji": "⛅",
-  "high": 15,
-  "low": 10,
-  "precip": 73,
-  "current": 14
+  "label": "霧雨",
+  "emoji": "🌦️",
+  "high": 11,
+  "low": 9,
+  "precip": 80,
+  "current": 10
  },
  "muse": {
-  "used_percent": 15.0,
+  "used_percent": 24.0,
   "reset": "11/24 6:58",
   "plan": "無料枠"
  },
@@ -22,12 +22,12 @@
   "next": {
    "label": "NISA積立スタート（月7万円）",
    "date": "11/28",
-   "days_left": 9
+   "days_left": 8
   },
   "following": {
    "label": "LINE証券 情報更新",
    "date": "11/30",
-   "days_left": 11
+   "days_left": 10
   }
  }
 }
