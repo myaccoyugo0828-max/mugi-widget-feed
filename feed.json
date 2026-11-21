@@ -1,9 +1,15 @@
 {
- "updated_at": "2026-11-21T07:44+09:00",
- "weather": null,
- "weather_error": "'daily'",
+ "updated_at": "2026-11-21T10:18+09:00",
+ "weather": {
+  "label": "霧雨",
+  "emoji": "🌦️",
+  "high": 12,
+  "low": 8,
+  "precip": 14,
+  "current": 10
+ },
  "muse": {
-  "used_percent": 31.0,
+  "used_percent": 32.0,
   "reset": "11/24 6:58",
   "plan": "無料枠"
  },
