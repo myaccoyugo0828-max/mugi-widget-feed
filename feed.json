@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-11-25T07:44+09:00",
+ "updated_at": "2026-11-25T17:23+09:00",
  "weather": {
   "label": "晴れ時々曇り",
   "emoji": "🌤️",
   "high": 10,
   "low": 7,
-  "precip": 4,
-  "current": 8
+  "precip": 2,
+  "current": 10
  },
  "muse": {
-  "used_percent": 10.0,
+  "used_percent": 13.0,
   "reset": "12/1 6:58",
   "plan": "無料枠"
  },
